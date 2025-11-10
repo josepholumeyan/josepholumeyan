@@ -1,16 +1,17 @@
-## Hi there 👋
+# Joseph Olumeyan – Software Developer & Junior Data Scientist
 
-<!--
-**josepholumeyan/josepholumeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Software Developer and Junior Data Scientist building practical applications, ML models, and high-performance tools. Beyond coding, I'm also a rap artist in *IntricateXXX* (music live across all streaming platforms) and a former trader, bringing creativity and analytical thinking to my projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- Bachelor of Science – Computer Science, Federal University Lokoja, Nigeria (Jan 2024 – Present)
+- Erasmus Exchange Program – WSEI University, Lublin, Poland (Sep 2024 – Mar 2025)
+
+##  Skills
+Python | Java | C# | SQL | Android Studio | Visual Studio | Git | Pandas | NumPy | Scikit-learn | Matplotlib
+
+## 🎵 Creative Projects
+- Rap Artist in [*IntricateXXX*](https://fanlink.tv/wwNe), music on Spotify, Apple Music, etc.
+
+## 📫 Connect with Me
+[linkedin](www.linkedin.com/in/joseph-olumeyan-225a5b292) | [[X/Twitter](https://x.com/Joseph513037300)] | [Portfolio website if any]
