@@ -14,4 +14,4 @@ Python | Java | C# | SQL | Android Studio | Visual Studio | Git | Pandas | NumPy
 - Rap Artist in [*IntricateXXX*](https://fanlink.tv/wwNe), music on Spotify, Apple Music, etc.
 
 ## 📫 Connect with Me
-[linkedin](www.linkedin.com/in/joseph-olumeyan-225a5b292) | [[X/Twitter](https://x.com/Joseph513037300)] | [Portfolio website if any]
+[linkedin](www.linkedin.com/in/joseph-olumeyan-225a5b292) | [[X/Twitter](https://x.com/Joseph513037300)] 
