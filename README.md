@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a Software Developer and Junior Data Scientist buildin
 
 ## 🎓 Education
 - Bachelor of Science – Computer Science, Federal University Lokoja, Nigeria (Jan 2024 – Present)
-- Erasmus Exchange Program – WSEI University, Lublin, Poland (Sep 2024 – Mar 2025)
+- Erasmus Exchange Program – WSEI University, Lublin, Poland (Sep 2024 – Mar 2026)
 
 ##  Skills
 Python | Java | C# | SQL | Android Studio | Visual Studio | Git | Pandas | NumPy | Scikit-learn | Matplotlib
