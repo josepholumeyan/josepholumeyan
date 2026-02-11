@@ -10,7 +10,7 @@ Most projects are **fully completed, tested, and deployable**.
 
 ## 🎓 Education
 - **B.Sc. Computer Science** — Federal University Lokoja, Nigeria *(2024 – Present)*  
-- **Erasmus Exchange Program** — WSEI University, Lublin, Poland *(2024 – 2026)*
+- **Erasmus Exchange Program** — WSEI University, Lublin, Poland *(2025 – 2026)*
 
 ---
 
