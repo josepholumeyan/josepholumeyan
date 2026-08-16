@@ -38,7 +38,7 @@ Most recently, I solo-built **Mowa**, an AI career companion app moving into ope
 
 ## Featured Work
 
-**[Mowa](https://github.com/josepholumeyan) — AI Career Companion** *(private repo — happy to walk through the codebase or give a demo)*
+**Mowa — AI Career Companion** *(private repo — happy to walk through the codebase or give a demo)*
 Kotlin end-to-end: Jetpack Compose client + Spring Boot/PostgreSQL backend. Seven-layer memory architecture that lets a stateless AI feel continuous over months, a provider-agnostic AI layer with automatic failover, and Google Play Billing end-to-end with a rewarded-ads path for free users. Backend context-assembly latency cut from ~1400ms to ~300ms via bounded local parallelism. Runs on 512MB RAM / 0.1 vCPU.
 
 **[Channel0](https://github.com/josepholumeyan/Channel0Backend) — Continuous Playback Platform**
@@ -51,8 +51,8 @@ FastAPI backend serving real-time and batch predictions from an XGBoost/Random F
 
 ## Current Focus
 - Taking Mowa through open testing toward public launch (billing and ad-monetization already live, reliability at small scale)
-- Deepening backend systems design — concurrency, caching, fault tolerance
-- Shipping full products end-to-end rather than isolated demos
+- Deepening backend systems design, concurrency, caching, fault tolerance
+- Whatever i can think of next
 
 ---
 
